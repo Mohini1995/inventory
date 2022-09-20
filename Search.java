@@ -3,10 +3,7 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author acer
- */
+
 import java.io.*;
 import javax.swing.*;
 public class Search extends javax.swing.JFrame {

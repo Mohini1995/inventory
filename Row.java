@@ -3,10 +3,7 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author acer
- */
+
 public class Row {
     private static int row;
     public static int getRow(){
